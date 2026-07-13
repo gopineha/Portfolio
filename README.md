@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/images/profile.jpg" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;" />
+  <img src="assets/IMG_5561 (1).jpg" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;" />
 
   # Hi, I'm Neha Gopi
   ### Data Science Graduate| Specialized in Business Analytics | Love playing with numbers and creating a story around it!
