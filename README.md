@@ -1,205 +1,135 @@
 <div align="center">
 
-# Hi, I'm Neha Gopi
+  <img src="assets/images/profile.jpg" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Scientist;Business+Data+Analyst;Machine+Learning+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau" />
+  # Hi, I'm Neha Gopi
+  ### Data Science Graduate| Specialized in Business Analytics | Love playing with numbers and creating a story around it!
 
----
-
-<img src="YOUR_BANNER_IMAGE_URL_HERE" width="100%"/>
-
-### Turning Data into Decisions
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
-</a>
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="YOUR_RESUME_LINK">
-<img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge"/>
-</a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/neha-gopi)
+  [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:nehagopi66@gmail.com)
+  [![Resume](https://img.shields.io/badge/Resume-Download-green?style=flat&logo=adobeacrobatreader)](assets/docs/resume.pdf)
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+## About Me
 
-🎓 Master of Data Science (Professional) – Deakin University
+# Hi, I'm Neha.
+If someone had asked me a few years ago where I'd end up, I probably wouldn't have said *data science*. But looking back, it makes perfect sense. I completed my Bachelor's degree in **Information Science Engineering**, where I spent most of my time learning how technology and software work. It wasn't until my **final year**, when I took **Data Science** as a subject, that something clicked.
 
-📍 Melbourne, Australia
+For me, it wasn't just about algorithms or coding. I loved how data could explain *why* something was happening and, more importantly, help solve a real problem. Instead of guessing, you could make decisions backed by evidence. That idea fascinated me, and I knew this was the field I wanted to build my career in.
 
-💼 Aspiring Data Scientist | Business Data Analyst
+That curiosity brought me to **Melbourne, Australia**, where I pursued my **Master of Data Science (Professional)** at **Deakin University**. It was one of the best decisions I've made. The journey challenged me technically, introduced me to machine learning, analytics, visualization, and research, and allowed me to work on projects that combined business thinking with data-driven solutions.
 
-🔬 Research Experience in Human Activity Recognition using LiDAR
+Like many international students, I picked up a part-time job to support myself. I joined **Urban Alley Brewery**, not because I had years of hospitality experience, but because I was genuinely curious about bartending. I thought it would be something fun to learn alongside university.
 
-📈 Passionate about Machine Learning, AI and Data Visualisation
+A few months turned into something much bigger.
 
----
+I discovered that I loved working with people just as much as I loved working with numbers. Before long, my managers trusted me with more responsibility, and I was promoted from bartender to **Team Supervisor**, leading a team of **28 people** in a fast-paced venue serving hundreds of customers.
 
-# 🚀 Tech Stack
+That experience taught me lessons I never expected to learn outside a classroom. I learned how to lead under pressure, make quick operational decisions, communicate with people from different backgrounds, and earn trust. It also showed me that great decisions—whether in hospitality or analytics—come from understanding people as much as understanding data.
 
-### Languages
+Today, I bring both worlds together.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+I enjoy building machine learning models, analysing data, writing Python and SQL, and creating dashboards that answer questions businesses actually care about. But I also know how to explain technical ideas in a simple way, because not everyone wants to hear about model accuracy but they want to know what action to take next.
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+Most recently, I completed a research internship applying **deep learning to Human Activity Recognition using LiDAR data**, which gave me the opportunity to explore AI beyond traditional business datasets and strengthened my interest in machine learning and computer vision.
 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+At the end of the day, I'm just a simple girl who loves numbers, enjoys talking to people, and believes the best solutions happen when technology and human understanding come together.
 
----
+This portfolio is my way of documenting that journey. I'll be continuously adding new projects, experiments, certifications, and things I learn along the way. Think of it as a living portfolio that grows with my career.
 
-### Machine Learning
+I'm excited to keep learning, keep building, and hopefully solve problems that make a real difference.
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
-
----
-
-### Data Analytics
-
-![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
-
-![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau)
-
-![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel)
+- 🔭 Currently learning: **Generative AI (Gen AI), HEX, Snowflake**
+- 💬 Ask me about: **Python, Pandas,R, Excel, PowerBI, Tableau,SQL, Machine Learning, Data Visualization**
+- 📫 Reach me at: **nehagopi66@gmail.com**
+- ⚡ Fun fact: **I am amazing at Mixolgogy**
 
 ---
 
-### Database
+## 🛠️ Skills
 
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+**Programming Languages**
+`Python` `SQL` `R` 
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+**Data Science & ML**
+`Pandas` `NumPy` `Scikit-learn` `TensorFlow` `PyTorch` 
 
----
+**Data Visualization**
+`Matplotlib` `Seaborn` `Power BI` `Tableau` 
 
-### Tools
+**Tools & Platforms**
+`Jupyter Notebook` `Git/GitHub` `Excel` `Docker` 
 
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-
-![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
-
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-
----
-
-# 📂 Featured Projects
-
-## 🧠 Human Activity Recognition using LiDAR
-
-Deep Learning • PyTorch • CNN-LSTM
-
-➡️ Short project description
-
-🔗 Repository
+**Soft Skills**
+`Problem Solving` `Good Communication` `Analytical Thinking` `Curious` 
 
 ---
 
-## 🚗 Driver Drowsiness Detection
+## 🎓 Education
 
-Python • OpenCV
-
-➡️ Short project description
-
-🔗 Repository
-
----
-
-## 📊 Power BI Business Dashboard
-
-Power BI • SQL
-
-➡️ Dashboard with KPIs and insights
-
-🔗 Repository
+| Degree | Institution | Year |
+|--------|-------------|------|
+| Masters | Deakin University | 2023-2025 |
+| Bachelors | Malnad College of Engineering | 2019-2023 |
 
 ---
 
-## 📈 Customer Churn Prediction
+## 📜 Certifications
 
-Machine Learning
-
-➡️ Predicting customer churn using classification models.
-
-🔗 Repository
-
----
-
-# 📜 Certifications
-
-- Google Data Analytics
-- IBM Data Science
-- Microsoft Power BI
-- Machine Learning Specialization
-- SQL Advanced
+| Certificate | Issuing Organization | Date | Link |
+|-------------|----------------------|------|------|
+| Power BI Essential Training| LinkedIn | 
+| Excel 2016: Managing and Analyzing Data| LinkedIn |
+| What is Data Science? by IBM| Coursera | https://www.coursera.org/account/accomplishments/verify/CKNUWP0CZ8JK|
 
 ---
 
-# 📊 GitHub Analytics
+## 💼 Projects
 
-<p align="center">
+### 🔹 [Project Title 1]
+[One or two sentence description of the problem you solved and approach used.]
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
+**Tech Stack:** `Python` `Pandas` `Scikit-learn`
+🔗 [GitHub Repo](#) | 🌐 [Live Demo](#)
 
 ---
 
-<p align="center">
+### 🔹 [Project Title 2]
+[One or two sentence description of the problem you solved and approach used.]
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
+**Tech Stack:** `SQL` `Power BI`
+🔗 [GitHub Repo](#) | 🌐 [Live Demo](#)
 
 ---
 
-# 🌎 Let's Connect
+### 🔹 [Project Title 3]
+[One or two sentence description of the problem you solved and approach used.]
 
-<p align="center">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+**Tech Stack:** `Python` `TensorFlow`
+🔗 [GitHub Repo](#) | 🌐 [Live Demo](#)
 
 ---
 
-<p align="center">
+## 📄 Resume
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
+📥 [Download my Resume (PDF)](assets/docs/resume.pdf)
 
-</p>
+---
+
+## ✉️ Cover Letter
+
+📥 [Download my Cover Letter (PDF)](assets/docs/cover_letter.pdf)
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: [your.email@example.com]
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](#)
+- 🐙 GitHub: [github.com/yourusername](#)
+- 🌐 Portfolio Website: https://gopineha.github.io/Portfolio/(#)
+
+---
